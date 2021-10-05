@@ -23,7 +23,7 @@ namespace OpeNet.App.UI.Controllers
             return View();
         }
 
-        public IActionResult Login()
+        public IActionResult Privacy()
         {
             return View();
         }
